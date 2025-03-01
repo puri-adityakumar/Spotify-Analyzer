@@ -1,2 +1,4 @@
 .venv/
 steps.md
+depreciated
+__pycache__
